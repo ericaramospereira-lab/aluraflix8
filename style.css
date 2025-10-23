@@ -1,0 +1,21 @@
+body{. 
+   background-color:(white);
+   color:rgb(176, 157, 193);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin:0px;
+}
+h1{
+    color:brown
+    font-size 40px;
+
+}
+p{
+    font: size 25px;
+}
+header{
+    border-bottom:coral;
+    margin:2px;
+    padding:10px;
+color:aquamarine
+     ;
+}
