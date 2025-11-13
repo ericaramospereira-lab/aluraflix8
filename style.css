@@ -6,8 +6,7 @@ body{.
 }
 h1{
     color:brown
-    font-size 40px;
-
+    font-size: 40px;
 }
 p{
     font: size 25px;
@@ -16,6 +15,17 @@ header{
     border-bottom:coral;
     margin:2px;
     padding:10px;
-color:aquamarine
-     ;
+color:aquamarine;
+}
+.chamada{
+background-(cor) ;
+padding: 80px; 
+display: flex;
+justify-content: center;
+}
+chamada-texto{
+    margin-right: 8%;
+}    
+ing{
+height: 200px; 
 }
